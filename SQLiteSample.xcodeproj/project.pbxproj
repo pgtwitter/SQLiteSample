@@ -11,6 +11,7 @@
 		96B16FFE2C818EA1004A72DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96B16FFD2C818EA1004A72DB /* Assets.xcassets */; };
 		96B170012C818EA1004A72DB /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96B16FFF2C818EA1004A72DB /* MainMenu.xib */; };
 		96B170032C818EA1004A72DB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 96B170022C818EA1004A72DB /* main.m */; };
+		96B1700B2C818F3C004A72DB /* BasicData.db in Resources */ = {isa = PBXBuildFile; fileRef = 96B1700A2C818EC5004A72DB /* BasicData.db */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		96B170002C818EA1004A72DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		96B170022C818EA1004A72DB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		96B170042C818EA1004A72DB /* SQLiteSample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SQLiteSample.entitlements; sourceTree = "<group>"; };
+		96B1700A2C818EC5004A72DB /* BasicData.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = BasicData.db; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				96B16FFB2C818EA0004A72DB /* AppDelegate.m */,
 				96B16FFD2C818EA1004A72DB /* Assets.xcassets */,
 				96B16FFF2C818EA1004A72DB /* MainMenu.xib */,
+				96B1700A2C818EC5004A72DB /* BasicData.db */,
 				96B170022C818EA1004A72DB /* main.m */,
 				96B170042C818EA1004A72DB /* SQLiteSample.entitlements */,
 			);
@@ -122,6 +125,7 @@
 			files = (
 				96B16FFE2C818EA1004A72DB /* Assets.xcassets in Resources */,
 				96B170012C818EA1004A72DB /* MainMenu.xib in Resources */,
+				96B1700B2C818F3C004A72DB /* BasicData.db in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
